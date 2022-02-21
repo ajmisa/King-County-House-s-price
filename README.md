@@ -1,4 +1,4 @@
-# King-County-House-price
+# King-County-House's-price
 The goal of this project is to perform exploratory data analysis and preprocessing of data in order to build a model. We are using keras regression to predict the King County house prices based on the house's features.
 
 ## The Data
